@@ -1,0 +1,3 @@
+html,body{margin:0;padding:0;}
+body{background-size:cover !important;width:100%;height:100%;}body.img1{background:url('moustache.svg') no-repeat 50% 50%;}
+body.img2{background:url('landscape.svg') no-repeat 50% 50%;}
